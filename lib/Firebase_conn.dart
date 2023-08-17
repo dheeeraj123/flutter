@@ -54,6 +54,7 @@ class _FireConnectState extends State<FireConnect> {
                 ),
                 ),
               ),
+
               FloatingActionButton(onPressed: (){
               sentData();
               }),
