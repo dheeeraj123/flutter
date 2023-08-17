@@ -53,6 +53,8 @@ class _FireConnectState extends State<FireConnect> {
                     decoration: InputDecoration(fillColor: Colors.blue,filled: true,label: Text("password")
                 ),
                 ),
+
+
               ),
 
               FloatingActionButton(onPressed: (){
